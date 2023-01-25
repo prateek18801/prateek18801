@@ -4,8 +4,11 @@ Welcome to my GitHub profile, you're probably lost but I won't hold it against y
 
 I have experience working with a variety of languages and frameworks, but I won't bore you with the details, you can find that on my resume or just take my word for it.
 
-I am always looking to learn new technologies and currently busy completing engineering along with consloing some javascript bugs.
+I am always looking to learn new technologies and currently completing engineering along with consloing some javascript bugs.
 
-On my profile, you can find several of my personal projects, as well as contributions to open-source projects. I take pride in my ability to write clean code, and I always strive to follow best practices, when I'm feeling up to it. In addition to my technical skills, I have a background in user experience and design.
+On my profile, you can find several of my personal projects, as well as contributions to open-source projects. I take pride in my ability to write clean code, and I always strive to follow best practices. In addition to my technical skills, I have a background in user experience and design.
 
 If you're interested in working together or just want to chat about a project, feel free to drop me a message.
+
+Email: [prateek18801@gmail.com](mailto://prateek18801@gmail.com) \
+Linkedin: [prateekchaurasia](https://www.linkedin.com/in/prateekchaurasia/)
