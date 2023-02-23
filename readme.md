@@ -2,13 +2,25 @@
 
 Welcome to my GitHub profile, you're probably lost but I won't hold it against you. My name is Prateek, and I am a full stack web developer from India, but don't let that fancy title fool you. I just know how to make a computer do my bidding. This is the place where I make and break things.
 
-I have experience working with a variety of languages and frameworks, but I won't bore you with the details, you can find that on my resume or just take my word for it.
+## Tech Stack
 
-I am always looking to learn new technologies and currently completing engineering along with consloing some javascript bugs.
+I am always looking to learn new technologies, my current favourites include
 
-On my profile, you can find several of my personal projects, as well as contributions to open-source projects. I take pride in my ability to write clean code, and I always strive to follow best practices. In addition to my technical skills, I have a background in user experience and design.
+![skills](https://skillicons.dev/icons?i=cpp,js)
+
+![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
+
+![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
+![skills](https://skillicons.dev/icons?i=vscode,git,figma,xd)
+
+On my profile, you can find several of my personal projects, as well as contributions to open-source projects. I take pride in my ability to write clean code, and I always strive to follow best practices. In addition to my technical skills, I have some background in UX design.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek18801&layout=compact&theme=dark&hide_border=true)](https://github.com/prateek18801/github-readme-stats)
+
+## Social
 
 If you're interested in working together or just want to chat about a project, feel free to drop me a message.
 
-Email: [prateek18801@gmail.com](mailto://prateek18801@gmail.com) \
-Linkedin: [prateekchaurasia](https://www.linkedin.com/in/prateekchaurasia/)
+[![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prateekchaurasia)
+[![skills](https://skillicons.dev/icons?i=github)](https://github.com/prateek18801)
