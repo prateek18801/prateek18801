@@ -1,14 +1,13 @@
 # Hi there, I am Prateek
 
-Welcome to my GitHub profile, you're probably lost but I won't hold it against you. My name is Prateek, and I am a software developer from India. This is the place where I make and break things.
+I am a software developer from India. This is the place where I make and break things.  
+For a better visual representation of my work please visit [here](https://prateek18801.github.io/portfolio/).
 
 ## Tech Stack
 
 I am always looking to learn new technologies, my current favourites include
 
-![skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,figma)
-
-I take pride in my ability to write clean code, and I always strive to follow best practices. In addition to my technical skills, I have some background in UX design.
+![skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,figma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek18801&layout=compact&theme=dark&hide_border=true)](https://github.com/prateek18801/github-readme-stats)
 
