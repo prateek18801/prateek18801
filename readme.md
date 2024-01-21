@@ -1,7 +1,8 @@
 # Hi there, I am Prateek
 
 I am a software developer from India. This is the place where I make and break things.  
-For a better visual representation of my work please visit [here](https://prateek18801.github.io/portfolio/).
+For a better visual representation of my work, please visit [my portfolio](https://prateek18801.github.io/portfolio/).  
+For a summary, have a look at my [resume](https://prateek18801.github.io/resume/).
 
 ## Tech Stack
 
@@ -13,4 +14,4 @@ I am always looking to learn new technologies, my current favourites include
 
 ## Contact
 
-If you're interested in working together or just want to chat about a project, feel free to drop me a message [here](https://prateek18801.github.io/portfolio/).
+If you're interested in working together or just want to chat about a project, feel free to drop me a [message](https://prateek18801.github.io/portfolio/) or an [email](mailto:prateek18801@gmail.com).
